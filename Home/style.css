@@ -57,6 +57,7 @@ button {
   background-color: #e01a38;
   color: #ffffff;
   border-radius: 0.5em;
+  cursor: pointer;
 }
 .display-container {
   padding: 1em;
