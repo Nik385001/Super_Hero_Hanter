@@ -2,12 +2,12 @@
 
 <br/>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/76626529/185464101-32a5d8b0-04a5-48b0-940f-bdfcf6872385.png">
+<img src="Readme_img/Screenshot (91).png">
 </p>
 
 ## ⭐ Introduction
 
-This project is a Super Hero Hunter App in which we use superheroAPI() to fetch the records and details of all the superheroes along with some additional features. It is built using HTML, CSS, Vanilla Javascript.
+This project is a Super Hero Hunter App in which we use superheroAPI() to fetch the records and details of all the superheroes along with some additional features. It is built using HTML, CSS, and Vanilla Javascript.
 
 -  Users are Shown some ongoing Super Hero Videos playing in the website's background.
 -  Users can Enter their Problems in the form to which the most suitable Super Hero is assigned to Assist.
@@ -48,8 +48,8 @@ This project is a Super Hero Hunter App in which we use superheroAPI() to fetch 
 ## 💻 Screens
 
 <p align="justify">
-<img src="https://user-images.githubusercontent.com/76626529/163015606-4ecdde96-2bc1-4b3b-a539-45e03937646a.png">
-<img src="https://user-images.githubusercontent.com/76626529/163015610-e1542c39-41b6-4567-b7e6-8d0224a1df53.png">
-<img src="https://user-images.githubusercontent.com/76626529/163015612-ba319f0e-80dd-4d50-9a00-b8d23bbe4e80.png">
+<img src="Readme_img/Screenshot (92).png">
+<img src="Readme_img/Screenshot (93).png">
+<img src="Readme_img/Screenshot (94).png">
 </p>
 <br/>
