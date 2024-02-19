@@ -39,7 +39,7 @@ This project is a Super Hero Hunter App in which we use superheroAPI() to fetch 
    
 ## 🔗 Links
 
-> ## Checkout the Website [Web Application]((https://nik385001.github.io/Super_Hero_Hanter/))
+> ## Checkout the Website [Web Application](https://nik385001.github.io/Super_Hero_Hanter/)
 >
 > ## Checkout the Application Demo Video [linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7165032929834864640/)
 
