@@ -17,6 +17,18 @@ header a{
  margin-top: -50px;
  margin-right: 150px;
  color: #ddd;
+ text-decoration: none;
+}
+header a:hover {
+  box-shadow: inset 100px 0 0 0 #f83200;
+  color: white;
+  transition: 0.5ms;
+  border-radius: 22%;
+  padding: 4px;
+  -webkit-border-radius: 22%;
+  -moz-border-radius: 22%;
+  -ms-border-radius: 22%;
+  -o-border-radius: 22%;
 }
 
 
