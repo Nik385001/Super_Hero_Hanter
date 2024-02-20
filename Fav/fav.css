@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+  }
+  header{
+    background: #000;
+  }
+  header img{
+    padding-top: 15px;
+  margin-left: 20px;
+  cursor: pointer;
+  }
+  
+header a{
+    float: right;
+    margin-top: -50px;
+    margin-right: 150px;
+    color: #ddd;
+    text-decoration: none;
+   }
+
+   
+header a:hover {
+    box-shadow: inset 100px 0 0 0 #6aa5dd;
+    color: white;
+    transition: 0.5ms;
+    border-radius: 40%;
+    padding: 7px;
+    -webkit-border-radius: 40%;
+    -moz-border-radius: 40%;
+    -ms-border-radius: 40%;
+    -o-border-radius: 40%;
+}
+  
+
+body {
+    background-image: url(../Marvel.jpg);
+    background-position: top;
+  }
